@@ -1,7 +1,12 @@
-/*
- * Copyright (c) 2026 零壹实验室-ZoreOneLab
- * Repository: https://github.com/ZeroOneLab/BBusI2C.git
- * Tutorial: https://www.yuque.com/u54102073/rs06a5/ugd9qgtyf86gd668?singleDoc#
+/**
+ * @file    bbus_i2c.h
+ * @version v1.0
+ * @date    2026-02-28
+ * @author  ZeroOneLab
+ * @website https://github.com/ZeroOneLab/BBusI2C.git
+ *
+ * @license MIT License
+ * Copyright (c) 2026 ZeroOneLab
  *
  * Permission is hereby granted, free of charge, to any person obtaining a copy
  * of this software and associated documentation files (the "Software"), to deal
