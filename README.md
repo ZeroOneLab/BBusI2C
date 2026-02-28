@@ -312,3 +312,5 @@ if (aht30_read_data(aht30_buf) == 0)
 - 详细使用教程：[BBusI2C：高通用性的软件 I2C 驱动框架](https://www.yuque.com/u54102073/rs06a5/ugd9qgtyf86gd668?singleDoc#)
 
 - 嵌入式技术交流群：181921938
+
+## 如果这个项目对你有帮助，请给它一个 ⭐ ！
